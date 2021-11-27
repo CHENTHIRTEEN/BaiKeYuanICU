@@ -1,0 +1,30 @@
+﻿生成启动时间为 2021/11/25 15:18:48。
+     1>项目“C:\Exam\201933070085\程序设计\1\proj1\proj1.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Exam\201933070085\程序设计\1\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\proj1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt PROG1.C
+         PROG1.C
+     1>c:\exam\201933070085\程序设计\1\proj1\prog1.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\exam\201933070085\程序设计\1\proj1\prog1.c(38): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\exam\201933070085\程序设计\1\proj1\prog1.c(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\exam\201933070085\程序设计\1\proj1\prog1.c(40): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Exam\201933070085\程序设计\1\Debug\proj1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\proj1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Exam\201933070085\程序设计\1\Debug\proj1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Exam\201933070085\程序设计\1\Debug\proj1.lib" /MACHINE:X86 Debug\PROG1.obj
+         proj1.vcxproj -> C:\Exam\201933070085\程序设计\1\Debug\proj1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Exam\201933070085\程序设计\1\Debug\proj1.exe;#1" /manifest Debug\proj1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\proj1.unsuccessfulbuild”。
+         正在对“Debug\proj1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Exam\201933070085\程序设计\1\proj1\proj1.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.62

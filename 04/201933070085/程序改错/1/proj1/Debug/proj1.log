@@ -1,0 +1,17 @@
+﻿生成启动时间为 2021/11/25 15:16:28。
+     1>项目“C:\Exam\201933070085\程序改错\1\proj1\proj1.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Exam\201933070085\程序改错\1\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\proj1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt PROG1.C
+         PROG1.C
+     1>c:\exam\201933070085\程序改错\1\proj1\prog1.c(11): error C2046: 非法的 case
+     1>c:\exam\201933070085\程序改错\1\proj1\prog1.c(13): error C2046: 非法的 case
+     1>c:\exam\201933070085\程序改错\1\proj1\prog1.c(13): error C2046: 非法的 case
+     1>已完成生成项目“C:\Exam\201933070085\程序改错\1\proj1\proj1.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.46
